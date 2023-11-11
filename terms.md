@@ -1,4 +1,4 @@
-Terms of Use
+**Terms of Use**
 
                 <div className="col-xs-12">
                     <h3 className="text-2xl">
