@@ -21,7 +21,7 @@ Welcome, and thank you for your interest in AskInfosec!
 
    - Users may need to create an account to access certain features of the Website.  You may also required to provide us with some information about yourself, such as your email, phone number and other contact information.
    - You may also need to create an organization account, if one does not exist already.
-   - AskInfosec user account is protected by credentials, you are the sole responsible for maintaining the security of your credentials, including use of two-fact authentication when it is available. AskInfosec and our affiliates are not responsible for unauthorized access to your account, except to the extent caused by our breach of this agreement.
+   - AskInfosec user account is protected by credentials, you are the sole responsible for maintaining the security of your credentials, including use of two-factor authentication when if available. AskInfosec and our affiliates are not responsible for unauthorized access to your account, except to the extent caused by our breach of this agreement.
    - You agree to provide accurate and complete information during the registration process. 
 
   
