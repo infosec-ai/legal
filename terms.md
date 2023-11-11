@@ -12,7 +12,7 @@ Welcome, and thank you for your interest in AskInfosec!
 
 2. **User Eligibility** 
 
-   - You must be at least 18 years old or the legal age of majority in your jurisdiction to use the Platform. 
+   - You must be at least 18 years old or the legal age of majority in your jurisdiction to use the Website. 
 
    - Users in Singapore must also comply with relevant laws and regulations. 
 
@@ -20,7 +20,7 @@ Welcome, and thank you for your interest in AskInfosec!
 
 3. **User Registration** 
 
-   - Users may need to create an account to access certain features of the Platform. 
+   - Users may need to create an account to access certain features of the Website. 
 
    - You agree to provide accurate and complete information during the registration process. 
 
@@ -28,7 +28,7 @@ Welcome, and thank you for your interest in AskInfosec!
 
 4. **User Conduct** 
 
-   - You agree not to use the Platform for any illegal or unauthorized purpose. 
+   - You agree not to use the Website for any illegal or unauthorized purpose. 
 
    - You must not violate any laws, regulations, or third-party rights. 
 
@@ -53,33 +53,33 @@ Welcome, and thank you for your interest in AskInfosec!
 
 8. **Disclaimers** 
 
-   - The Platform is provided "as is" without warranties of any kind, express or implied. 
+   - The Website is provided "as is" without warranties of any kind, express or implied. 
 
-   - AskInfosec does not guarantee the accuracy, reliability, or availability of the Platform. 
+   - Additionally, nothing contained on this Website shall be construed as providing consult or advice to you. 
 
   
 
 9. **Limitation of Liability** 
 
-   - AskInfosec shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from your use of the Platform. 
+   - In no event shall AskInfosec, nor any of its officers, directors and employees, be liable to you for anything arising out of or in any way connected with your use of this Website, whether such liability is under contract, tort or otherwise, and AskInfosec, including its officers, directors and employees shall not be liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
 
   
 
 10. **Indemnity** 
 
-    - You agree to indemnify and hold AskInfosec harmless from any claims, damages, or expenses arising from your use of the Platform. 
+    - You hereby indemnify to the fullest extent AskInfosec from and against any and all liabilities, costs, demands, causes of action, damages and expenses (including reasonable attorney’s fees) arising out of or in any way related to your breach of any of the provisions of these Terms.
 
   
 
 11. **Governing Law and Dispute Resolution** 
 
-    - These Terms of Use are governed by the laws of Singapore. Any disputes will be resolved through arbitration or the appropriate legal channels in Singapore. 
+    - These Terms will be governed by and construed in accordance with the laws of the Government of Singapore, and you submit to the non-exclusive jurisdiction of the state and federal courts located in Singapore for the resolution of any disputes. 
 
   
 
 12. **Changes to Terms** 
 
-    - AskInfosec may update these Terms of Use, and you will be notified of any material changes. 
+    - AskInfosec is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review such Terms on a regular basis to ensure you understand all terms and conditions governing use of this Website. 
 
   
 
