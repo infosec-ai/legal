@@ -5,24 +5,24 @@ Welcome, and thank you for your interest in AskInfosec!
 
 1. **Acceptance of Terms** 
    - "AskInfosec", "we", "our", and "us" means AskInfosec.
-   - "You" and "your" refer to you in your individual capacity, or, if your access is being made on behalf of your organization, your organization and all of its users and End Users.
-   - The "Services" means AskInfosec website, and all pages within this website (collectively referred to herein below as this “Website”), including app.askinfosec.tech, and other software and services made available by us.
-   - These Terms of Use (the “Terms” or the “Terms of Use”) contained herein, shall govern your use of this website and our Services. These Terms apply in full force and effect to your use of this Website and by using this Website, you expressly accept all terms and conditions contained herein in full. You must not use this Website, if you have any objection to any of these Terms of Use.
+   - "You" and "your" refer to you individually or, if you are gaining access on behalf of your organization, to your organization and all of its users and End Users.
+   - The "Services" refer to the AskInfosec website and any pages within it (collectively referred to as the "Website" below), including app.askinfosec.tech and other software and services made accessible by us..
+   - These Terms of Service (the "Terms" or "Terms of Use") govern your use of this website and our Services. These Terms apply to your use of this Website in full force and effect, and by using this Website, you fully accept all terms and conditions stated herein in full. If you disagree with any of these Terms of Service, you must not use this Website.
   
 
 2. **User Eligibility** 
 
    - You must be at least 18 years old or the legal age of majority in your jurisdiction to use the Website.
-   - If you are using the Services on behalf of an entity, organization, or company, you represent and warrant that you have the authority to bind that organization to this Agreement and you agree to be bound by this Agreement on behalf of that organization. 
+   - If you are using the Services on behalf of a corporation, entity, or organization, you represent and warrant that you have the ability to bind that organization to this Agreement and that you agree to be bound by this Agreement on their behalf. 
 
   
 
 3. **User Registration** 
 
-   - Users may need to create an account to access certain features of the Website.  You may also required to provide us with some information about yourself, such as your email, phone number and other contact information.
-   - You may also need to create an organization account, if one does not exist already.
-   - AskInfosec user account is protected by credentials, you are the sole responsible for maintaining the security of your credentials, including use of two-factor authentication when if available. AskInfosec and our affiliates are not responsible for unauthorized access to your account, except to the extent caused by our breach of this agreement.
-   - You agree to provide accurate and complete information during the registration process. 
+- In order to use certain features of the Website, users may be required to register an account.  You may also be requested to provide us with personal information such as your email address, phone number, and other contact information.
+   - If an organization account does not already exist, you may need to create one.
+   - You are solely responsible for maintaining the security of your credentials, including the usage of two-factor authentication where applicable, for your AskInfosec user account. Except to the extent caused by our breach of this agreement, AskInfosec and its affiliates are not liable for unauthorized access to your account.
+   - During the registration procedure, you agree to give correct and complete information. 
 
   
 
