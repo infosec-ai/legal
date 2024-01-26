@@ -30,7 +30,13 @@ Welcome, and thank you for your interest in AskInfosec!
 
    - You agree not to use the Website for any illegal or unauthorized purpose. 
 
-   - You must not violate any laws, regulations, or third-party rights. 
+   - You must not violate any laws, regulations, or third-party rights.
+     
+   - You should not misuse, manipulate, or interfere with the AI service or its outputs, such as by providing false, misleading, or inappropriate inputs.
+  
+   - You should not use the AI service for any illegal, unethical, or harmful purposes, such as by violating any laws, regulations, or policies, or by infringing on any rights or interests of others, or by causing any damage or harm to any person, property, or environment.
+  
+   - You should not rely solely on the AI service or its outputs, and should exercise their own judgment, discretion, and responsibility in using the information, advice, or guidance provided by the AI service. Users should also acknowledge and accept the limitations, uncertainties, and risks of using the AI service, and should not hold the website or its owners liable for any errors, inaccuracies, or consequences arising from the use of the AI service.
 
   
 
